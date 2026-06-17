@@ -1,4 +1,4 @@
-package com.example.jelly_drop_sort.ui.theme
+package com.example.jelly_drop_sort.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build

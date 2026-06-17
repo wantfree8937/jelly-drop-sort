@@ -1,4 +1,4 @@
-package com.example.jelly_drop_sort.ui.theme
+package com.example.jelly_drop_sort.presentation.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
